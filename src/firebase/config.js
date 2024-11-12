@@ -4,13 +4,13 @@ import { getAuth, setPersistence, browserLocalPersistence } from 'firebase/auth'
 
 //* Add the Web App's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC1AX214CyvxZm1yNAuG1ltUARxlE6JrDI",
-  authDomain: "bleggs.firebaseapp.com",
-  projectId: "bleggs",
-  storageBucket: "bleggs.appspot.com",
-  messagingSenderId: "982592525378",
-  appId: "1:982592525378:web:edb383a55a03656fb089db",
-  measurementId: "G-WC3ZVMSXE1",
+  apiKey: "AIzaSyBDacC7uMJI9ojp7U2xAYF4V5iQA2NJF7Q",
+  authDomain: "adstoearn-819a1.firebaseapp.com",
+  projectId: "adstoearn-819a1",
+  storageBucket: "adstoearn-819a1.firebasestorage.app",
+  messagingSenderId: "847919019099",
+  appId: "1:847919019099:web:6be01d30d4a306805dfb7e",
+  measurementId: "G-R6616WG8E8",
 };
 
 //* Initialize Firebase
